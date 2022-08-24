@@ -2,8 +2,9 @@
 
 ## Libraries required:
 * Tensorflow
-* numpy
-* matplotlib
+* Numpy
+* Matplotlib
+* OS
 
 ## Layers:
 * Flatten
