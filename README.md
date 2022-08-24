@@ -1,10 +1,10 @@
 # Hand-digit-Recognition
 
-## libraries required:
+## Libraries required:
 * Tensorflow
 * numpy
 * matplotlib
 
-## layers:
+## Layers:
 * Flatten
 * Dense
